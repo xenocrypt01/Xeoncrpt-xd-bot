@@ -1,7 +1,6 @@
 <a href="https://github.com/xenocrypt01-tech/Xenocrypt-xd-bot/fork" target="_blank">
-  <img src="https://img.shields.io/badge/Fork%20Repo-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo"/>
+  <img src="https://img.shields.io/badge/Fork%20Repo-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo"/>
 </a>
-
 
 # 🚀 PAIRING CODE 🚀
 
