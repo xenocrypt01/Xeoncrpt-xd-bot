@@ -1,7 +1,8 @@
+# 🚀 PAIRING CODE 🚀
+
 <a href="https://xeoncrpt.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/Get%20Pairing%20Code-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Get Pairing Code"/>
 </a>
-
 
 
 # 🚀 HEROKU DEPLOY 🚀
