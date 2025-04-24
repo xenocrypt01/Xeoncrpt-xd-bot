@@ -29,3 +29,6 @@
 </p>
 
 ---
+<a href="https://wa.me/254106208580" target="_blank">
+  <img src="https://img.shields.io/badge/Contact%20Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Developer"/>
+</a>
