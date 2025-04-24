@@ -606,7 +606,7 @@ if (menu === 'VIDEO') {
 client.sendMessage(from, { text: cap}, {quoted: m})
 
 } else if (menu === 'IMAGE') {
-client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/ofylbc.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
+client.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/7JQHrQ3n/IMG-20250424-WA0040.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
 } else if (menu === 'LINK') {
 client.sendMessage(m.chat, {
                         text: cap,
@@ -615,7 +615,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `XΞNØCRYPT 𝐗𝐃 𝐁𝐎𝐓`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./Media/blackmachant.jpg'),
+                                thumbnail: fs.readFileSync('./Media/xenocrypt.jpg'),
                                 sourceUrl: 'https://wa.me/254106208580?text=Hello👋+XΞNØCRYPT+Nihostie+Bot+Mkuu+😔',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -3514,9 +3514,9 @@ const title = data.result.title;
 //========================================================================================================================//		      
  case 'sc': case 'script': case 'repo':
 
- client.sendMessage(m.chat, { image: { url: `https://files.catbox.moe/xiflcv.jpeg` }, caption: 
+ client.sendMessage(m.chat, { image: { url: `https://i.ibb.co/vChw8N9b/IMG-20250424-WA0042.jpg` }, caption: 
 ` Hello👋 *${pushname}*,𝒀𝑶𝑼 𝑪𝑨𝑵 𝑫𝑬𝑷𝑳𝑶𝒀 XΞNØCRYPT 𝐁𝐎𝐓 𝑼𝑺𝑰𝑵𝑮 𝑻𝑯𝑬 𝑮𝑰𝑻𝑯𝑼𝑩 𝑳𝑰𝑵𝑲 𝑩𝑬𝑳𝑶𝑾 ☆\n\n🅵🅾🆁🅺 🅰🅽🅳 🅶🅸🆅🅴 🆄🆂 🅰 🆂🆃🅰🆁✨.\n\n ╭══──────              ─◇─             ──────══╮
-  https://github.com/Blackie254/black-super-bot
+  https://github.com/xenocrypt01/Xeoncrypt-xd-bot
 ╰══─────                 ─◇─              ──────══╯\n\n.𝑳𝑰𝑵𝑲 𝑾𝑰𝑻𝑯 𝒀𝑶𝑼𝑹 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑼𝑺𝑰𝑵𝑮 𝑻𝑯𝑬 𝑷𝑨𝑰𝑹𝑰𝑵𝑮 𝑳𝑰𝑵𝑲👇🏻👇🏻\n\n╭══──────             ─◇─             ──────══╮
             https://blacks-mf.onrender.com
 ╰══─────                ─◇─             ──────══╯\n\n𝑪𝒐𝒑𝒚 𝒕𝒉𝒆 𝒔𝒆𝒔𝒔𝒊𝒐𝒏-𝑰𝒅 𝒂𝒏𝒅 𝒇𝒊𝒍𝒍 𝒊𝒏 𝒕𝒉𝒆 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝒗𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚\n\n🅴🅽🅹🅾🆈 😊 🅰🅽🅳  🅷🅰🆅🅴 🅵🆄🅽 🆆🅸🆃🅷 XΞNØCRYPT 𝐁𝐎𝐓\n\n𝑨𝑽𝑨𝑰𝑳𝑨𝑩𝑳𝑬 𝑾𝑯𝑬𝑵 𝑵𝑬𝑬𝑫𝑬𝑫🫰🏻🔥!`},{quoted : m });
@@ -4037,9 +4037,9 @@ break;
                         externalAdReply: {
                             showAdAttribution: true,
                             title: 'XΞNØCRYPT 𝐁𝐎𝐓',
-                            body: 'https://whatsapp.com/channel/0029VaxCd13DzgTGK42G292X',
-                            thumbnailUrl: 'https://i.imgur.com/gmIbuTZ.jpeg',
-                            sourceUrl: 'https://whatsapp.com/channel/0029VaxCd13DzgTGK42G292X',
+                            body: 'https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26',
+                            thumbnailUrl: 'https://i.ibb.co/7JQHrQ3n/IMG-20250424-WA0040.jpg',
+                            sourceUrl: 'https://whatsapp.com/channel/0029VaesBAXJJhzefVszDu3h',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
