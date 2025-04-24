@@ -29,20 +29,3 @@
 </p>
 
 ---
-
-### ⚙️ Features
-
-- Auto Pairing System
-- Stylish Menu with Category View
-- Powerful Admin and Group Tools
-- Media Downloader, AI Chat, Search Functions
-- Anti-Link, Anti-Call, and much more
-
----
-
-### 📦 Installation
-
-```bash
-git clone https://github.com/xenocrypt01-tech/Xenocrypt-xd-bot.git
-cd Xenocrypt-xd-bot
-npm install
