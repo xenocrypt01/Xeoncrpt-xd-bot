@@ -1,6 +1,10 @@
 <h1 align="center">🤖 XENOCRYPT XD BOT</h1>
 
 <p align="center">
+  <img src="https://i.ibb.co/7JQHrQ3n/IMG-20250424-WA0040.jpg" alt="Xenocrypt XD Banner" width="500"/>
+</p>
+
+<p align="center">
   A powerful, stylish, and modular WhatsApp bot built with ❤️ by <strong>Xenocrypt01 Tech</strong>.
 </p>
 
